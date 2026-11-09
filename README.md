@@ -39,7 +39,7 @@
 ## Media Monitoring
 *Track mentions of your brand, competitors, and topics.*
 
-* [Meltwater](https://www.meltwater.com) - Enterprise media monitoring and analytics.
+* [Meltwater](https://www.meltwater.com/en/products/media-monitoring) - Enterprise media monitoring and analytics.
 * [Brand24](https://brand24.com) - SMB-friendly social and web mention monitoring.
 * [Mention](https://mention.com) - Real-time brand monitoring across web and social.
 * [Critical Mention](https://www.criticalmention.com) - Broadcast and online media monitoring.
